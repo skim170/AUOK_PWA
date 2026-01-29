@@ -1,6 +1,0 @@
-{
-  "/(main)/jobs/page": "app/(main)/jobs/page.js",
-  "/(main)/page": "app/(main)/page.js",
-  "/(main)/market/page": "app/(main)/market/page.js",
-  "/(main)/clubs/page": "app/(main)/clubs/page.js"
-}
